@@ -47,5 +47,3 @@ A bilingual home for SalahNest and my Student Portal Redesign.
 <img src="https://github-readme-stats.vercel.app/api?username=MalekMahmouda&show_icons=true&hide_rank=true&hide_border=true&title_color=0d9488&icon_color=0d9488&text_color=64748b&bg_color=00000000" width="400" alt="MalekMahmouda's live GitHub stats" />
 
 ---
-
-<sub>Layout inspired by <a href="https://github.com/rahul-jha98/rahul-jha98">Rahul Jha</a>, via <a href="https://maxrohowsky.github.io/best-github-profile-readme/">Best GitHub Profile README</a>.</sub>
