@@ -1,50 +1,51 @@
-<div align="center">
+## Hey 👋, I'm Malek Mahmoud!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f3f46,100:18181b&height=170&section=header&text=Malek&fontSize=56&fontColor=ffffff&fontAlignY=40" width="100%" alt="Malek" />
+**Student developer · Creator of SalahNest**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1600&color=A1A1AA&center=true&vCenter=true&width=600&lines=Student+developer;Creator+of+SalahNest;Building+for+Windows%2C+Android+and+the+web" width="100%" alt="Student developer. Creator of SalahNest. Building for Windows, Android and the web." />
+I build practical apps and bilingual web experiences with English and Arabic support.
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://malekmahmouda.github.io/salahnest-homepage/)
+[![SalahNest](https://img.shields.io/badge/Try_SalahNest-0f172a?style=for-the-badge&logo=pwa&logoColor=white)](https://malekmahmouda.github.io/salahnest/)
 
-### 👋 About me
+<a href="https://github.com/MalekMahmouda/salahnest"><img align="right" src="https://raw.githubusercontent.com/MalekMahmouda/salahnest/main/assets/salahnest-mark.png" width="120" alt="SalahNest, my Islamic companion app" /></a>
 
-I'm Malek Mahmoud, a student developer building practical apps and bilingual web experiences. My projects include SalahNest, an Islamic companion for Windows, Android and the web, and a responsive student portal redesign with English and Arabic support.
+### A little about me
 
-### 🚀 Featured work
+- 🔭 Building **SalahNest** for Windows, Android and the web
+- 🌐 Working on bilingual interfaces with **Arabic RTL** support
+- 🛠️ Using **JavaScript, HTML and CSS** across my projects
+- 📂 Sharing my apps and experiments here on GitHub
 
-**[SalahNest](https://github.com/MalekMahmouda/salahnest)**  
-Prayer times, Quran, dhikr and Qibla in one app, with an offline-first core and English/Arabic support.  
-[Try the web app](https://malekmahmouda.github.io/salahnest/)
+<br clear="both"/>
 
-**[My portfolio](https://malekmahmouda.github.io/salahnest-homepage/)**  
-A bilingual home for SalahNest and my Student Portal Redesign.  
-[View the source](https://github.com/MalekMahmouda/salahnest-homepage)
+### Tools in my projects
 
-<details open>
-<summary><b>🧰 Tools in my projects</b></summary>
-<br/>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="42" height="42" alt="Electron" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg" width="42" height="42" alt="Capacitor" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-27272A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-27272A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-27272A?style=for-the-badge&logo=css&logoColor=663399)
-![Electron](https://img.shields.io/badge/Electron-27272A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-![Capacitor](https://img.shields.io/badge/Capacitor-27272A?style=for-the-badge&logo=capacitor&logoColor=119EFF)
-![GitHub](https://img.shields.io/badge/GitHub-27272A?style=for-the-badge&logo=github&logoColor=ffffff)
+`JavaScript` · `HTML` · `CSS` · `Electron` · `Capacitor`
 
-</details>
+### My projects
 
-### 📊 GitHub activity
+#### 🌙 SalahNest
+An offline-first Islamic companion with prayer times, Quran, dhikr and Qibla. Built for Windows, Android and the web.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MalekMahmouda&show_icons=true&theme=github_dark&hide_border=true&bg_color=18181b&title_color=f4f4f5&icon_color=a1a1aa&text_color=d4d4d8" alt="MalekMahmouda's GitHub stats" />
-</div>
+[View source](https://github.com/MalekMahmouda/salahnest) · [Try the web app](https://malekmahmouda.github.io/salahnest/)
 
-### 🌱 Right now
+#### 🌐 My portfolio
+A bilingual home for SalahNest and my Student Portal Redesign.
 
-- Building SalahNest across Windows, Android and the web
-- Working on bilingual interfaces with Arabic RTL support
-- Sharing my projects here on GitHub
+[View source](https://github.com/MalekMahmouda/salahnest-homepage) · [Visit portfolio](https://malekmahmouda.github.io/salahnest-homepage/)
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:3f3f46&height=100&section=footer" width="100%" alt="Gray wave footer" />
-</div>
+### GitHub activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=MalekMahmouda&show_icons=true&hide_rank=true&hide_border=true&title_color=0d9488&icon_color=0d9488&text_color=64748b&bg_color=00000000" width="400" alt="MalekMahmouda's live GitHub stats" />
+
+---
+
+<sub>Layout inspired by <a href="https://github.com/rahul-jha98/rahul-jha98">Rahul Jha</a>, via <a href="https://maxrohowsky.github.io/best-github-profile-readme/">Best GitHub Profile README</a>.</sub>
